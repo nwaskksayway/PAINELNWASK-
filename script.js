@@ -125,9 +125,9 @@ $("#volume").on("change mousemove", function() {
 });
 // Lista de URLs das imagens
 var imageUrls = [
-  "https://i.pinimg.com/originals/58/25/e2/5825e28d63336e8508acb42ad670724c.gif",
-  "https://i.pinimg.com/originals/4b/d9/15/4bd915c3990d3618203608dcee8894b1.gif",
-  "https://i.pinimg.com/originals/38/17/1f/38171f2c68f76c23cb27775cbe4ffe70.gif"
+  "https://i.pinimg.com/originals/46/c4/2a/46c42ac52f929aea4eece3ceefe30cb5.gif",
+  "https://i.pinimg.com/originals/b8/a4/26/b8a4261ca30bf239d43be105a6ed9798.gif",
+  "https://i.pinimg.com/originals/7d/8e/c0/7d8ec098347c735ade5d62373221c060.gif"
 ];
 
 // Função para escolher uma URL de imagem aleatória
