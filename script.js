@@ -126,7 +126,7 @@ $("#volume").on("change mousemove", function() {
 // Lista de URLs das imagens
 var imageUrls = [
   "https://i.pinimg.com/originals/46/c4/2a/46c42ac52f929aea4eece3ceefe30cb5.gif",
-  "https://i.pinimg.com/originals/b8/a4/26/b8a4261ca30bf239d43be105a6ed9798.gif",
+  "https://i.pinimg.com/originals/ad/60/37/ad6037d534fa6c26be21605df585b60c.gif",
   "https://i.pinimg.com/originals/7d/8e/c0/7d8ec098347c735ade5d62373221c060.gif"
 ];
 
