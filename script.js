@@ -126,7 +126,7 @@ $("#volume").on("change mousemove", function() {
 // Lista de URLs das imagens
 var imageUrls = [
   "https://i.pinimg.com/originals/ad/60/37/ad6037d534fa6c26be21605df585b60c.gif",
-  "https://i.pinimg.com/originals/1b/72/64/1b7264721adebc21041b84cc11643936.gif",
+  "https://i.pinimg.com/originals/ad/60/37/ad6037d534fa6c26be21605df585b60c.gif",
   "https://images.steamusercontent.com/ugc/90473660314351555/49363951FF1525E31415B94FA3094016EFD352F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
 ];
 
